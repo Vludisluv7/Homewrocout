@@ -1,0 +1,15 @@
+C:\Users\Vludisluv\Desktop\Gb\CSharp\homeworkavg\bin\Debug\net7.0\homeworkavg.exe
+C:\Users\Vludisluv\Desktop\Gb\CSharp\homeworkavg\bin\Debug\net7.0\homeworkavg.deps.json
+C:\Users\Vludisluv\Desktop\Gb\CSharp\homeworkavg\bin\Debug\net7.0\homeworkavg.runtimeconfig.json
+C:\Users\Vludisluv\Desktop\Gb\CSharp\homeworkavg\bin\Debug\net7.0\homeworkavg.dll
+C:\Users\Vludisluv\Desktop\Gb\CSharp\homeworkavg\bin\Debug\net7.0\homeworkavg.pdb
+C:\Users\Vludisluv\Desktop\Gb\CSharp\homeworkavg\obj\Debug\net7.0\homeworkavg.csproj.AssemblyReference.cache
+C:\Users\Vludisluv\Desktop\Gb\CSharp\homeworkavg\obj\Debug\net7.0\homeworkavg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vludisluv\Desktop\Gb\CSharp\homeworkavg\obj\Debug\net7.0\homeworkavg.AssemblyInfoInputs.cache
+C:\Users\Vludisluv\Desktop\Gb\CSharp\homeworkavg\obj\Debug\net7.0\homeworkavg.AssemblyInfo.cs
+C:\Users\Vludisluv\Desktop\Gb\CSharp\homeworkavg\obj\Debug\net7.0\homeworkavg.csproj.CoreCompileInputs.cache
+C:\Users\Vludisluv\Desktop\Gb\CSharp\homeworkavg\obj\Debug\net7.0\homeworkavg.dll
+C:\Users\Vludisluv\Desktop\Gb\CSharp\homeworkavg\obj\Debug\net7.0\refint\homeworkavg.dll
+C:\Users\Vludisluv\Desktop\Gb\CSharp\homeworkavg\obj\Debug\net7.0\homeworkavg.pdb
+C:\Users\Vludisluv\Desktop\Gb\CSharp\homeworkavg\obj\Debug\net7.0\homeworkavg.genruntimeconfig.cache
+C:\Users\Vludisluv\Desktop\Gb\CSharp\homeworkavg\obj\Debug\net7.0\ref\homeworkavg.dll
